@@ -1,0 +1,16 @@
+INFO:root:Reading for Year 2018 Month january
+INFO:root:Calls Offered: 16915
+INFO:root:Abandon after 30s: 0.0232
+INFO:root:FCR %: 86.5
+INFO:root:DSAT %: 14.2
+INFO:root:CSAT %: 78.3
+INFO:root:Base Size: 42500
+INFO:root:Promoters: Good
+INFO:root:Promoters %: 64.3
+INFO:root:Passives: Bad
+INFO:root:Passives %: 20.1
+INFO:root:Detractors: Bad
+INFO:root:Detractors %: 20.1
+INFO:root:Overall NPS%: 39.7
+INFO:root:Agent SAT%: 78.3
+INFO:root:Agent DSAT%: 14.2
